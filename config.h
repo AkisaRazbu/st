@@ -57,7 +57,7 @@ static int bellvolume = 0;
 char *termname = "st-256color";
 
 /* spaces in a tab */
-unsigned int tabspaces = 4;
+unsigned int tabspaces = 8;
 
 /* bg opacity */
 float alpha = 1; 
