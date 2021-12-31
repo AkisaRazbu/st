@@ -8,7 +8,7 @@
 */
 
 /* Appearance */
-static char *font = "JetBrains Mono:pixelsize=18:antialias=true:autohint=true";
+static char *font = "Iosevka Term:pixelsize=20:antialias=true:autohint=true";
 static char *font2[] = { "JoyPixels:pixelsize=16:antialias=true:autohint=true" };
 
 /* Side padding */
